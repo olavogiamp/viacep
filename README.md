@@ -17,13 +17,7 @@ https://www.udemy.com/course/desenvolvimento-android-e-ios-com-flutter/
 
 ## Capturas de Tela
 
-![Screenshot](screenshot/1.png)
-
-![Screenshot](screenshot/2.png)
-
-![Screenshot](screenshot/3.png)
-
-![Screenshot](screenshot/4.png)
+<img src="screenshot/1.png" alt="Screenshot" width="300"/>
 
 ## Como Executar
 
