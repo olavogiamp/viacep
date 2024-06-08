@@ -4,7 +4,7 @@ Este é um aplicativo Flutter para consulta de CEPs (Códigos de Endereçamento 
 
 ## Descrição
 
-O aplicativo permite que os usuários insiram um CEP e recuperem informações detalhadas sobre o endereço associado, incluindo logradouro, complemento, bairro, localidade, UF e DDD. O aplicativo foi desenvolvido como parte do curso do Jamilton Damaceno na Udemy.
+O aplicativo permite que os usuários insiram um CEP e recuperem informações detalhadas sobre o endereço associado, incluindo logradouro, complemento, bairro, localidade, UF e DDD. O aplicativo foi desenvolvido como parte do curso do Jamilton Damasceno na Udemy.
 
 https://www.udemy.com/course/desenvolvimento-android-e-ios-com-flutter/
 
