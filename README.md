@@ -57,13 +57,20 @@ https://www.udemy.com/course/desenvolvimento-android-e-ios-com-flutter/
 Para gerar o APK de release:
 ```sh
 flutter build apk
+```
 
-O APK gerado estará localizado em build/app/outputs/flutter-apk/app-release.apk.
+O APK gerado estará localizado em:
+
+```sh
+build/app/outputs/flutter-apk/app-release.apk.
+```
 
 ### Configuração Adicional
 Para permitir o acesso à internet no Android, adicione a seguinte permissão no arquivo android/app/src/main/AndroidManifest.xml:
 
+```sh
 <uses-permission android:name="android.permission.INTERNET"/>
+```
 
 ### Contribuição
 Sinta-se à vontade para abrir issues e enviar pull requests. Toda contribuição é bem-vinda!
