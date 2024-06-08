@@ -16,14 +16,15 @@ https://www.udemy.com/course/desenvolvimento-android-e-ios-com-flutter/
 - Botão para compartilhar (função a ser implementada)
 
 ## Capturas de Tela
+# Capturas de Tela
 
-<img src="screenshot/1.png" alt="Screenshot" width="200"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="screenshot/1.png" alt="Screenshot 1" width="200"/>
+  <img src="screenshot/2.png" alt="Screenshot 2" width="200"/>
+  <img src="screenshot/3.png" alt="Screenshot 3" width="200"/>
+  <img src="screenshot/4.png" alt="Screenshot 4" width="200"/>
+</div>
 
-<img src="screenshot/2.png" alt="Screenshot" width="200"/>
-
-<img src="screenshot/3.png" alt="Screenshot" width="200"/>
-
-<img src="screenshot/4.png" alt="Screenshot" width="200"/>
 
 ## Como Executar
 
